@@ -18,5 +18,7 @@ const skills = {
 }
 ```
 
+![M A Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-a-rahul&count_private=true&theme=tokyonight)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-a-rahul)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/m-a-rahul)
