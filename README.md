@@ -4,15 +4,15 @@
 
 ## Hey! 👋
 
-I'm Rahul, a 20 years old software developer from India.
+I'm Rahul, a 21 years old software developer from India.
 
 - 🚀 4th Year B.Tech in Information Technology from [Vellore Institute of Technology, Vellore](https://vit.ac.in)
 
-- 👨🏽‍💻 Software Development Intern at [GUVI Geek Network Pvt. Ltd, Chennai](https://www.guvi.in)
+- 👨🏽‍💻 Academic Intern Tech at [BA Continuum India Private Ltd, Chennai](http://www.bankofamerica.com)
 
 ```javascript
 const skills = {
-  challenge: "Currently, I am trying to improve my problem solving skills by regularly practicing on leetcode"
+  challenge: "Currently, I am trying to explore Cybersecurity domain while paralley contributing to the software development domain"
   code: [Python, Java, PHP, Javascript, SQL, HTML, CSS, SCSS],
   tools: [Django, React, Git, MySQL, Mongo, Amazon Web Services, Google Cloud Platform]
 }
