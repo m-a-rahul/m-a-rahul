@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-I'm Rahul, a 22-year-old software developer from India.
+I'm Rahul, a 23-year-old software developer from India.
 
 - 🚀 B.Tech in Information Technology from [Vellore Institute of Technology, Vellore](https://vit.ac.in)
 
@@ -13,7 +13,7 @@ I'm Rahul, a 22-year-old software developer from India.
 ```javascript
 const skills = {
   code: [Python, Java, PHP, Javascript, SQL, HTML, CSS, SCSS],
-  tools: [Django, React, Git, MySQL, Mongo, Ansible, Jenkins, Amazon Web Services, Google Cloud Platform]
+  tools: [Django, SpringBoot, React, Git, MySQL, Mongo, Ansible, Jenkins, Amazon Web Services, Google Cloud Platform]
 }
 ```
 <!---
